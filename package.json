@@ -6,8 +6,10 @@
         "build": "vite build"
     },
     "dependencies": {
+        "@solidjs/router": "^0.13.6",
         "@types/three": "^0.164.0",
         "solid-js": "^1.8.17",
+        "solid-motionone": "^1.0.0",
         "three": "^0.164.1",
         "vite": "^5.2.10",
         "vite-plugin-solid": "^2.10.2"
